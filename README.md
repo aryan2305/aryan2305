@@ -8,4 +8,4 @@ I'm on the Platform team at [Glean](https://www.glean.com/), where I work on the
 - **[DevDock Plugin Library](https://github.com/aryan-agrawal-glean/devdock-plugins-library)**: The little helpers around the main event: checking your environment, timing startup, collecting logs, and letting you know when everything's ready. Written in Rust, Python, Go, and Bash; borrow one or build your own.
 - **[Tilt MCP](https://github.com/aryan-agrawal-glean/tilt-mcp)**: So your AI assistant can read the service logs too. A Python MCP server that exposes Tilt resources, status, and logs for debugging development environments.
 
-Always happy to talk developer tools, build systems, compute, and databases. Found something useful or something broken? Open an issue or send a PR.
+Always happy to talk developer tools, build systems, compute, databases, and making AI agents useful in everyday life. Found something useful or something broken? Open an issue or send a PR.
